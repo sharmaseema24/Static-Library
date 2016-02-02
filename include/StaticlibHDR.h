@@ -1,0 +1,1 @@
+void StaticLibFunc(void);

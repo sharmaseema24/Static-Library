@@ -1,0 +1,7 @@
+#include <stdio.h>
+#include <StaticlibHDR.h>
+
+void StaticLibFunc(void)
+{
+	printf("Inside Static Lib File\n");
+}
